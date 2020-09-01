@@ -1,0 +1,8 @@
+com\demo\domain\Product.class
+com\demo\domain\SysLog.class
+com\demo\domain\Role.class
+com\demo\domain\Permission.class
+com\demo\domain\Traveller.class
+com\demo\domain\Orders.class
+com\demo\domain\Member.class
+com\demo\domain\UserInfo.class

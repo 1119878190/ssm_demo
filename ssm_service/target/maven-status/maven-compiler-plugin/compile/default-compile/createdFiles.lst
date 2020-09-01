@@ -1,0 +1,12 @@
+com\demo\service\impl\PermissionImpl.class
+com\demo\service\ISysLogService.class
+com\demo\service\IUserService.class
+com\demo\service\IOrdersService.class
+com\demo\service\IProductService.class
+com\demo\service\impl\OrderServiceImpl.class
+com\demo\service\impl\ProductServiceImpl.class
+com\demo\service\impl\RoleServiceImpl.class
+com\demo\service\impl\UserServiceImpl.class
+com\demo\service\IPermissionService.class
+com\demo\service\IRoleService.class
+com\demo\service\impl\ISysLogServiceImpl.class

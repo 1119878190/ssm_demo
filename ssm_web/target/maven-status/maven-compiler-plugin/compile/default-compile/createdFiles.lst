@@ -1,0 +1,9 @@
+com\demo\controller\LogAop.class
+com\demo\controller\UserController.class
+test\MybatisTest.class
+com\demo\controller\ProductController.class
+com\demo\controller\PermissionController.class
+com\demo\controller\SysLogController.class
+test\SpringMVCTest.class
+com\demo\controller\OrdersController.class
+com\demo\controller\RoleController.class
